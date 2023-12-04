@@ -340,6 +340,8 @@ nav .fa-solid{
         background-image: url(Images/phnsize.png);
         background-attachment: fixed;
         background-size: cover;
+        background-position: center;
+
     }
     .header-text{
         margin-top: 140%;
